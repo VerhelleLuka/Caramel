@@ -1,3 +1,4 @@
-﻿  Application.cpp
-C:\Users\lukav\Documents\Caramel\Sanbox\src\Application.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Sanbox.vcxproj -> C:\Users\lukav\Documents\Caramel\x64\Debug\-x64\Sanbox\Sanbox.exe
+﻿  SanboxApp.cpp
+     Creating library C:\Users\lukav\Documents\Caramel\x64\Debug\-x64\Sanbox\Sanbox.lib and object C:\Users\lukav\Documents\Caramel\x64\Debug\-x64\Sanbox\Sanbox.exp
+SanboxApp.obj : error LNK2019: unresolved external symbol "class Caramel::Application * __cdecl Caramel::CreateApplication(void)" (?CreateApplication@Caramel@@YAPEAVApplication@1@XZ) referenced in function main
+C:\Users\lukav\Documents\Caramel\x64\Debug\-x64\Sanbox\Sanbox.exe : fatal error LNK1120: 1 unresolved externals
