@@ -5,7 +5,7 @@
 	#ifdef CRML_BUILD_DLL
 		#define CARAMEL_API __declspec(dllexport)
 	#else
-		#define CARAMEL_API __dllspec(dllimport)
+		#define CARAMEL_API __declspec(dllimport)
 
 	#endif
 

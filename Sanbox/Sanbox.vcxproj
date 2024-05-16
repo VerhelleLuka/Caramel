@@ -53,7 +53,9 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>CRML_PLATFORM_WINDOWS;_MBCS;CRML_PLATFORM_WINDOWS_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)Caramel\src</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)Caramel\src;$(SolutionDir)Caramel\vendor\spdlog\include;</AdditionalIncludeDirectories>
+      <Optimization>
+      </Optimization>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -68,7 +70,9 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>CRML_PLATFORM_WINDOWS;_MBCS;CRML_PLATFORM_WINDOWSNDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)Caramel\src</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)Caramel\src;$(SolutionDir)Caramel\vendor\spdlog\include;</AdditionalIncludeDirectories>
+      <Optimization>
+      </Optimization>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

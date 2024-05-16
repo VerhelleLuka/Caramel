@@ -11,12 +11,14 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\Caramel\Log.h" />
     <ClInclude Include="src\Caramel.h" />
     <ClInclude Include="src\Caramel\Application.h" />
     <ClInclude Include="src\Caramel\Core.h" />
     <ClInclude Include="src\Caramel\EntryPoint.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\Caramel\Log.cpp" />
     <ClCompile Include="src\Caramel\Application.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
@@ -62,8 +64,9 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>CRML_PLATFORM_WINDOWS;CRML_BUILD_DLL;_WINDLL;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>
-      </AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)Caramel\vendor\spdlog\include;</AdditionalIncludeDirectories>
+      <Optimization>
+      </Optimization>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -78,6 +81,9 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>CRML_PLATFORM_WINDOWS;CRML_BUILD_DLL;_WINDLL;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <Optimization>
+      </Optimization>
+      <AdditionalIncludeDirectories>$(SolutionDir)Caramel\vendor\spdlog\include;</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
