@@ -8,7 +8,7 @@ extern Caramel::Application* Caramel::CreateApplication();
 
 int main(int argc, char** argv)
 {
-	std::cout << ("Caramel Engine");
+	std::cout << ("Caramel Engine\n");
 
 	Caramel::Log::Init();
 
