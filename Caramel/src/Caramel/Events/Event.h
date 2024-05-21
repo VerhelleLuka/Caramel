@@ -1,10 +1,7 @@
 #pragma once
+#include "crmlpch.h"
 
 #include "Caramel/Core.h"
-
-
-#include "functional"
-#include "string"
 
 namespace Caramel {
 

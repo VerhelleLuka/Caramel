@@ -34,6 +34,7 @@
     <ClInclude Include="src\Caramel\Log.h">
       <Filter>Caramel</Filter>
     </ClInclude>
+    <ClInclude Include="src\crmlpch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Caramel\Application.cpp">
@@ -42,5 +43,6 @@
     <ClCompile Include="src\Caramel\Log.cpp">
       <Filter>Caramel</Filter>
     </ClCompile>
+    <ClCompile Include="src\crmlpch.cpp" />
   </ItemGroup>
 </Project>

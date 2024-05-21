@@ -17,6 +17,9 @@ project "Caramel"
     targetdir("bin/" .. outputdir .. "/%{prj.name}")
     objdir("bin-int/" .. outputdir .. "/%{prj.name}")
 
+    pchheader "crmlpch.h"
+    pchsource "Caramel/src/crmlpch.cpp"
+
     files
     {
         "%{prj.name}/src/**.h",

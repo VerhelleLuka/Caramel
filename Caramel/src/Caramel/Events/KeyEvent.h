@@ -1,7 +1,6 @@
 #pragma once
 
 #include "Caramel/Events/Event.h"
-#include <sstream>
 namespace Caramel {
 
 	class KeyEvent : public Event

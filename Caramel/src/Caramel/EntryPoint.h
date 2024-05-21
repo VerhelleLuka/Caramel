@@ -1,5 +1,4 @@
 #pragma once
-#include <iostream>
 
 #ifdef CRML_PLATFORM_WINDOWS
 

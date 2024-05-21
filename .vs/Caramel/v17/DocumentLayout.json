@@ -3,36 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\lukav\\Documents\\Caramel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Events\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{307B94D0-1C1D-BFA6-05D8-D2FAF11846F7}|Sanbox\\Sanbox.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Sanbox\\src\\SanboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{307B94D0-1C1D-BFA6-05D8-D2FAF11846F7}|Sanbox\\Sanbox.vcxproj|solutionrelative:Sanbox\\src\\SanboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Crmlpch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Crmlpch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\ApplicationEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Events\\ApplicationEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Crmlpch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Crmlpch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Events\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\MouseEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -41,6 +49,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\KeyEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Events\\KeyEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\ApplicationEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}|Caramel\\Caramel.vcxproj|solutionrelative:Caramel\\src\\Caramel\\Events\\ApplicationEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307B94D0-1C1D-BFA6-05D8-D2FAF11846F7}|Sanbox\\Sanbox.vcxproj|C:\\Users\\lukav\\Documents\\Caramel\\Sanbox\\src\\SanboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{307B94D0-1C1D-BFA6-05D8-D2FAF11846F7}|Sanbox\\Sanbox.vcxproj|solutionrelative:Sanbox\\src\\SanboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,34 +66,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Log.h",
               "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Log.h",
               "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\Log.h",
               "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Log.h",
               "RelativeToolTip": "Caramel\\src\\Caramel\\Log.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-21T09:56:06.041Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SanboxApp.cpp",
-              "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Sanbox\\src\\SanboxApp.cpp",
-              "RelativeDocumentMoniker": "Sanbox\\src\\SanboxApp.cpp",
-              "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Sanbox\\src\\SanboxApp.cpp",
-              "RelativeToolTip": "Sanbox\\src\\SanboxApp.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-21T11:08:15.653Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -85,20 +87,69 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Log.cpp",
+              "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\Log.cpp",
+              "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Log.cpp",
+              "RelativeToolTip": "Caramel\\src\\Caramel\\Log.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:07:48.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crmlpch.cpp",
+              "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\crmlpch.cpp",
+              "RelativeDocumentMoniker": "Caramel\\src\\crmlpch.cpp",
+              "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\crmlpch.cpp",
+              "RelativeToolTip": "Caramel\\src\\crmlpch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T13:12:04.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "crmlpch.h",
+              "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\crmlpch.h",
+              "RelativeDocumentMoniker": "Caramel\\src\\crmlpch.h",
+              "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\crmlpch.h",
+              "RelativeToolTip": "Caramel\\src\\crmlpch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T13:11:51.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SanboxApp.cpp",
+              "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Sanbox\\src\\SanboxApp.cpp",
+              "RelativeDocumentMoniker": "Sanbox\\src\\SanboxApp.cpp",
+              "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Sanbox\\src\\SanboxApp.cpp",
+              "RelativeToolTip": "Sanbox\\src\\SanboxApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T11:08:15.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Application.cpp",
               "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Application.cpp",
               "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\Application.cpp",
               "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Application.cpp",
               "RelativeToolTip": "Caramel\\src\\Caramel\\Application.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-21T09:55:30.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Application.h",
               "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Application.h",
               "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\Application.h",
@@ -106,25 +157,23 @@
               "RelativeToolTip": "Caramel\\src\\Caramel\\Application.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-21T09:55:28.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T09:55:28.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "EntryPoint.h",
               "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\EntryPoint.h",
               "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\EntryPoint.h",
               "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\EntryPoint.h",
               "RelativeToolTip": "Caramel\\src\\Caramel\\EntryPoint.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-21T09:55:26.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T09:55:26.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Core.h",
               "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Core.h",
               "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\Core.h",
@@ -132,59 +181,68 @@
               "RelativeToolTip": "Caramel\\src\\Caramel\\Core.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-21T09:55:18.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T09:55:18.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MouseEvent.h",
               "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\MouseEvent.h",
               "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\Events\\MouseEvent.h",
               "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\MouseEvent.h",
               "RelativeToolTip": "Caramel\\src\\Caramel\\Events\\MouseEvent.h",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEkAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-21T08:38:14.43Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T08:38:14.43Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "KeyEvent.h",
               "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\KeyEvent.h",
               "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\Events\\KeyEvent.h",
               "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\KeyEvent.h",
               "RelativeToolTip": "Caramel\\src\\Caramel\\Events\\KeyEvent.h",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAEQAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-21T08:38:05.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "ApplicationEvent.h",
               "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\ApplicationEvent.h",
               "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\Events\\ApplicationEvent.h",
-              "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\ApplicationEvent.h",
-              "RelativeToolTip": "Caramel\\src\\Caramel\\Events\\ApplicationEvent.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\ApplicationEvent.h*",
+              "RelativeToolTip": "Caramel\\src\\Caramel\\Events\\ApplicationEvent.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-21T08:37:44.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T08:37:44.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Event.h",
               "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\Event.h",
               "RelativeDocumentMoniker": "Caramel\\src\\Caramel\\Events\\Event.h",
               "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel\\Events\\Event.h",
               "RelativeToolTip": "Caramel\\src\\Caramel\\Events\\Event.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAcwB0AAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-05-21T08:37:40.323Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Caramel.h",
+              "DocumentMoniker": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel.h",
+              "RelativeDocumentMoniker": "Caramel\\src\\Caramel.h",
+              "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Caramel.h",
+              "RelativeToolTip": "Caramel\\src\\Caramel.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-21T13:15:56.995Z"
             }
           ]
         }

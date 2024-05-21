@@ -1,3 +1,4 @@
+#include "crmlpch.h"
 #include "Application.h"
 
 #include "Caramel/Events/ApplicationEvent.h"
