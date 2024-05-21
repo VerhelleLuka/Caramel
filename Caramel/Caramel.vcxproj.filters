@@ -4,6 +4,9 @@
     <Filter Include="Caramel">
       <UniqueIdentifier>{3AE0C713-A6BF-46AF-AFD7-D1851B36AD10}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Caramel\Events">
+      <UniqueIdentifier>{DEC68B1A-CA94-7F20-B328-F0469F955B85}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Caramel.h" />
@@ -15,6 +18,18 @@
     </ClInclude>
     <ClInclude Include="src\Caramel\EntryPoint.h">
       <Filter>Caramel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Caramel\Events\ApplicationEvent.h">
+      <Filter>Caramel\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Caramel\Events\Event.h">
+      <Filter>Caramel\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Caramel\Events\KeyEvent.h">
+      <Filter>Caramel\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Caramel\Events\MouseEvent.h">
+      <Filter>Caramel\Events</Filter>
     </ClInclude>
     <ClInclude Include="src\Caramel\Log.h">
       <Filter>Caramel</Filter>
