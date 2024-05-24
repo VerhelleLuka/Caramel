@@ -1,7 +1,1 @@
-﻿  SanboxApp.cpp
-C:\Users\lukav\Documents\Caramel\Caramel\src\Caramel\Log.h(18,42): warning C4251: 'Caramel::Log::s_CoreLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Caramel::Log'
-C:\Users\lukav\Documents\Caramel\Caramel\vendor\spdlog\include\spdlog\details\registry.h(33,31): message : see declaration of 'std::shared_ptr<spdlog::logger>'
-C:\Users\lukav\Documents\Caramel\Caramel\src\Caramel\Log.h(19,42): warning C4251: 'Caramel::Log::s_ClientLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'Caramel::Log'
-C:\Users\lukav\Documents\Caramel\Caramel\vendor\spdlog\include\spdlog\details\registry.h(33,31): message : see declaration of 'std::shared_ptr<spdlog::logger>'
-     Creating library ..\bin\Debug-windows-x86_64\Sanbox\Sanbox.lib and object ..\bin\Debug-windows-x86_64\Sanbox\Sanbox.exp
-  Sanbox.vcxproj -> C:\Users\lukav\Documents\Caramel\bin\Debug-windows-x86_64\Sanbox\Sanbox.exe
+﻿  Sanbox.vcxproj -> C:\Users\lukav\Documents\Caramel\bin\Debug-windows-x86_64\Sanbox\Sanbox.exe

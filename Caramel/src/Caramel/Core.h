@@ -13,4 +13,12 @@
 	#error Caramel only supports windows
 #endif
 
+#ifdef CRML_ENABLE_ASSERTS
+	#define CRML_ASSERT(x,...) {if(!(x)) {CRML_ERROR("Assertion failed: {0}", __VA_ARGS__); __debugbreak();}
+	#define CRML_CORE_ASSERT(x,...) {if(!(x)) {CRML_ERROR("Assertion failed: {0}", __VA_ARGS__); __debugbreak();}
+#else
+	#define CRML_ASSERT(x,...)
+	#define CRML_CORE_ASSERT(x,...)
+#endif
+
 #define BIT(x) (1 << x)

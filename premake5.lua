@@ -9,6 +9,12 @@ workspace "Caramel"
     }
 outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 
+--Include directories relative to root folder (solution directory)
+IncludeDir = {}
+IncludeDir["GLFW"] = "Caramel/vendor/GLFW/include" --includes the Premake5file in this folder
+
+include "Caramel/vendor/GLFW"
+
 project "Caramel"
     location "Caramel"
     kind "SharedLib" -- =dynamic library
@@ -29,7 +35,14 @@ project "Caramel"
     includedirs
     {
         "%{prj.name}/src",
-        "%{prj.name}/vendor/spdlog/include"
+        "%{prj.name}/vendor/spdlog/include",
+        "%{IncludeDir.GLFW}"
+    }
+
+    links
+    {
+        "GLFW",
+        "opengl32.lib"
     }
 
     filter "system:windows"
