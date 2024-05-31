@@ -12,8 +12,12 @@ outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 --Include directories relative to root folder (solution directory)
 IncludeDir = {}
 IncludeDir["GLFW"] = "Caramel/vendor/GLFW/include" --includes the Premake5file in this folder
+IncludeDir["GLAD"] = "Caramel/vendor/GLAD/include" 
+IncludeDir["ImGui"] = "Caramel/vendor/imgui" 
 
 include "Caramel/vendor/GLFW"
+include "Caramel/vendor/GLAD"
+include "Caramel/vendor/imgui"
 
 project "Caramel"
     location "Caramel"
@@ -36,12 +40,16 @@ project "Caramel"
     {
         "%{prj.name}/src",
         "%{prj.name}/vendor/spdlog/include",
-        "%{IncludeDir.GLFW}"
+        "%{IncludeDir.GLFW}",
+        "%{IncludeDir.GLAD}",
+        "%{IncludeDir.ImGui}"
     }
 
     links
     {
         "GLFW",
+        "GLAD",
+        "ImGui",
         "opengl32.lib"
     }
 
@@ -53,7 +61,8 @@ project "Caramel"
         defines
         {
             "CRML_PLATFORM_WINDOWS",
-            "CRML_BUILD_DLL"
+            "CRML_BUILD_DLL",
+            "GLFW_INCLUDE_NONE"
         }
 
         postbuildcommands
@@ -64,13 +73,18 @@ project "Caramel"
     filter "configurations:Debug"
         defines "CRML_DEBUG"
         symbols "On"
+        buildoptions "/MDd"
 
     filter "configurations:Release"
         defines "CRML_RELEASE"
         optimize "On"
+        buildoptions "/MD"
+
     filter "configurations:Dist"
         defines "CRML_DIST"
         optimize "On"
+        buildoptions "/MD"
+
 
     --filter {"system: windows", "configurations:Release"}
     --    buildoptions "/MT"
@@ -114,12 +128,18 @@ project "Sanbox"
         filter "configurations:Debug"
             defines "CRML_DEBUG"
             symbols "On"
+        buildoptions "/MDd"
+
     
         filter "configurations:Release"
             defines "CRML_RELEASE"
             optimize "On"
+        buildoptions "/MD"
+
         filter "configurations:Dist"
             defines "CRML_DIST"
             optimize "On"
+        buildoptions "/MD"
+
 
 

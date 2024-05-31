@@ -4,3 +4,6 @@
 [submodule "Caramel/Vendor/GLFW"]
 	path = Caramel/Vendor/GLFW
 	url = https://github.com/TheCherno/glfw
+[submodule "Caramel/vendor/imgui"]
+	path = Caramel/vendor/imgui
+	url = https://github.com/TheCherno/imgui

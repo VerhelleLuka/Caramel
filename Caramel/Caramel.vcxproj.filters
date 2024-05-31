@@ -7,8 +7,14 @@
     <Filter Include="Caramel\Events">
       <UniqueIdentifier>{DEC68B1A-CA94-7F20-B328-F0469F955B85}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Caramel\ImGui">
+      <UniqueIdentifier>{E418EA65-50D9-659C-1914-AF198593AA78}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Platform">
       <UniqueIdentifier>{2AC788B4-1694-E3BF-3FAD-D1672BD9184E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Platform\OpenGL">
+      <UniqueIdentifier>{1E7D2C1D-8A08-9AE1-9319-1DD6FF23F6E1}</UniqueIdentifier>
     </Filter>
     <Filter Include="Platform\Windows">
       <UniqueIdentifier>{64FBD71A-50F4-F66C-7926-DCF1657ED678}</UniqueIdentifier>
@@ -37,11 +43,23 @@
     <ClInclude Include="src\Caramel\Events\MouseEvent.h">
       <Filter>Caramel\Events</Filter>
     </ClInclude>
+    <ClInclude Include="src\Caramel\ImGui\ImGuiLayer.h">
+      <Filter>Caramel\ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Caramel\Layer.h">
+      <Filter>Caramel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Caramel\LayerStack.h">
+      <Filter>Caramel</Filter>
+    </ClInclude>
     <ClInclude Include="src\Caramel\Log.h">
       <Filter>Caramel</Filter>
     </ClInclude>
     <ClInclude Include="src\Caramel\Window.h">
       <Filter>Caramel</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Platform\OpenGL\ImGuiOpenGLRenderer.h">
+      <Filter>Platform\OpenGL</Filter>
     </ClInclude>
     <ClInclude Include="src\Platform\Windows\WindowsWindow.h">
       <Filter>Platform\Windows</Filter>
@@ -52,8 +70,20 @@
     <ClCompile Include="src\Caramel\Application.cpp">
       <Filter>Caramel</Filter>
     </ClCompile>
+    <ClCompile Include="src\Caramel\ImGui\ImGuiLayer.cpp">
+      <Filter>Caramel\ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Caramel\Layer.cpp">
+      <Filter>Caramel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Caramel\LayerStack.cpp">
+      <Filter>Caramel</Filter>
+    </ClCompile>
     <ClCompile Include="src\Caramel\Log.cpp">
       <Filter>Caramel</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Platform\OpenGL\ImGuiOpenGLRenderer.cpp">
+      <Filter>Platform\OpenGL</Filter>
     </ClCompile>
     <ClCompile Include="src\Platform\Windows\WindowsWindow.cpp">
       <Filter>Platform\Windows</Filter>
