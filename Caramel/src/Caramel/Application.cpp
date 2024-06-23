@@ -6,6 +6,8 @@
 #include <glad/glad.h>
 #include "ImGui/ImGuiLayer.h"
 #include <imgui.h>
+
+#include "Input.h"
 namespace Caramel
 {
 
@@ -73,9 +75,8 @@ namespace Caramel
 			{
 				layer->OnUpdate();
 			}
-			ImGui::Begin("Window A");
-			ImGui::Text("This is window A");
-			ImGui::End();
+			auto [x, y] = Input::GetMousePos();
+			CRML_CORE_TRACE("{0}, {1}", x, y);
 			m_Window->OnUpdate();
 			glClear(GL_COLOR_BUFFER_BIT);
 		}

@@ -7,9 +7,11 @@
 #include "Caramel/Events/ApplicationEvent.h"
 
 #include <glad/glad.h>	
-
+#include "WindowsInput.h"
 namespace Caramel
 {
+	 Input*  Input::s_Instance = new WindowsInput();
+
 	static void GLFWErrorCallback(int error, const char* description)
 	{
 		CRML_CORE_ERROR("GFLW Error ({0}) : {1}", error, description);

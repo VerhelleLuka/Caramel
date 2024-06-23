@@ -4,5 +4,6 @@ C:\Users\lukav\Documents\Caramel\Caramel\src\Caramel\Layer.cpp;C:\Users\lukav\Do
 C:\Users\lukav\Documents\Caramel\Caramel\src\Caramel\LayerStack.cpp;C:\Users\lukav\Documents\Caramel\bin-int\Debug-windows-x86_64\Caramel\LayerStack.obj
 C:\Users\lukav\Documents\Caramel\Caramel\src\Caramel\Log.cpp;C:\Users\lukav\Documents\Caramel\bin-int\Debug-windows-x86_64\Caramel\Log.obj
 C:\Users\lukav\Documents\Caramel\Caramel\src\Platform\OpenGL\ImGuiOpenGLRenderer.cpp;C:\Users\lukav\Documents\Caramel\bin-int\Debug-windows-x86_64\Caramel\ImGuiOpenGLRenderer.obj
+C:\Users\lukav\Documents\Caramel\Caramel\src\Platform\Windows\WindowsInput.cpp;C:\Users\lukav\Documents\Caramel\bin-int\Debug-windows-x86_64\Caramel\WindowsInput.obj
 C:\Users\lukav\Documents\Caramel\Caramel\src\Platform\Windows\WindowsWindow.cpp;C:\Users\lukav\Documents\Caramel\bin-int\Debug-windows-x86_64\Caramel\WindowsWindow.obj
 C:\Users\lukav\Documents\Caramel\Caramel\src\crmlpch.cpp;C:\Users\lukav\Documents\Caramel\bin-int\Debug-windows-x86_64\Caramel\crmlpch.obj
