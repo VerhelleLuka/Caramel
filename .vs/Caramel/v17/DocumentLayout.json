@@ -66,8 +66,7 @@
               "RelativeToolTip": "Caramel\\src\\Caramel\\EntryPoint.h",
               "ViewState": "AQIAAAcAAAAAAAAAAAAhwBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-23T11:13:02.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T11:13:02.715Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "Caramel\\src\\Platform\\Windows\\WindowsInput.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-23T11:10:21.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T11:10:21.114Z"
             },
             {
               "$type": "Document",
@@ -90,7 +88,7 @@
               "RelativeDocumentMoniker": "Caramel\\src\\Platform\\Windows\\WindowsInput.cpp",
               "ToolTip": "C:\\Users\\lukav\\Documents\\Caramel\\Caramel\\src\\Platform\\Windows\\WindowsInput.cpp",
               "RelativeToolTip": "Caramel\\src\\Platform\\Windows\\WindowsInput.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-06-23T11:10:19.298Z",
               "EditorCaption": ""
@@ -105,8 +103,7 @@
               "RelativeToolTip": "Caramel\\src\\Caramel\\Window.h",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-23T11:06:07.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T11:06:07.395Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "Caramel\\src\\crmlpch.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-23T10:57:10.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T10:57:10.134Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "Caramel\\src\\Platform\\Windows\\WindowsWindow.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-12T11:10:00.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T11:10:00.143Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "Caramel\\src\\Caramel\\Input.h",
               "ViewState": "AQIAAAkAAAAAAAAAAIAwwBcAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-12T10:32:50.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T10:32:50.781Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "Caramel\\src\\Caramel\\Application.cpp",
               "ViewState": "AQIAAEEAAAAAAAAAAAAhwE0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T13:30:03.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T13:30:03.745Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "Caramel\\src\\Platform\\Windows\\WindowsWindow.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-29T13:25:23.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-29T13:25:23.778Z"
             }
           ]
         }

@@ -1,2 +1,5 @@
-.vs
+.vs/
 .vs/Caramel/v17/Browse.VC.db
+bin/
+bin-int/
+vendor/
