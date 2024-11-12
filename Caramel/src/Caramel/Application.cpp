@@ -75,8 +75,9 @@ namespace Caramel
 			{
 				layer->OnUpdate();
 			}
-			auto [x, y] = Input::GetMousePos();
-			CRML_CORE_TRACE("{0}, {1}", x, y);
+			//auto [x, y] = Input::GetMousePos();
+			//CRML_CORE_TRACE("{0}, {1}", x, y);
+
 			m_Window->OnUpdate();
 			glClearColor(1,0,0,0.5);
 			glClear(GL_COLOR_BUFFER_BIT);

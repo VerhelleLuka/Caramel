@@ -2,17 +2,20 @@
 
 #include "WindowsInput.h"
 
-#include <GLFW/glfw3.h>
 #include "Caramel/Application.h"
+#include <GLFW/glfw3.h>
 namespace Caramel
 {
+	//Input* Input::s_Instance = new WindowsInput();
 
 	bool WindowsInput::IsKeyPressedImpl(int keycode)
 	{
 		auto window = static_cast<GLFWwindow*>(Application::Get().GetWindow().GetNativeWindow());
 
+		//Tells us if key is down
 		auto state = glfwGetKey(window, keycode);
-
+		
+		//GLFW_REPEAT means held down
 		return state == GLFW_PRESS || state == GLFW_REPEAT;
 	}
 

@@ -165,9 +165,11 @@
     <ClInclude Include="src\Caramel\Events\MouseEvent.h" />
     <ClInclude Include="src\Caramel\ImGui\ImGuiLayer.h" />
     <ClInclude Include="src\Caramel\Input.h" />
+    <ClInclude Include="src\Caramel\KeyCodes.h" />
     <ClInclude Include="src\Caramel\Layer.h" />
     <ClInclude Include="src\Caramel\LayerStack.h" />
     <ClInclude Include="src\Caramel\Log.h" />
+    <ClInclude Include="src\Caramel\MouseButtonCodes.h" />
     <ClInclude Include="src\Caramel\Window.h" />
     <ClInclude Include="src\Platform\OpenGL\ImGuiOpenGLRenderer.h" />
     <ClInclude Include="src\Platform\Windows\WindowsInput.h" />

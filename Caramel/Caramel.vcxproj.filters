@@ -65,6 +65,11 @@
       <Filter>Platform\Windows</Filter>
     </ClInclude>
     <ClInclude Include="src\crmlpch.h" />
+    <ClInclude Include="src\Caramel\Input.h" />
+    <ClInclude Include="src\Platform\Windows\WindowsInput.h" />
+    <ClInclude Include="WindowsInput.h" />
+    <ClInclude Include="src\Caramel\KeyCodes.h" />
+    <ClInclude Include="src\Caramel\MouseButtonCodes.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Caramel\Application.cpp">
@@ -89,5 +94,6 @@
       <Filter>Platform\Windows</Filter>
     </ClCompile>
     <ClCompile Include="src\crmlpch.cpp" />
+    <ClCompile Include="src\Platform\Windows\WindowsInput.cpp" />
   </ItemGroup>
 </Project>

@@ -1,0 +1,15 @@
+#pragma once
+
+//From glfw3.h line 572
+#define CRML_MOUSE_BUTTON_1         0
+#define CRML_MOUSE_BUTTON_2         1
+#define CRML_MOUSE_BUTTON_3         2
+#define CRML_MOUSE_BUTTON_4         3
+#define CRML_MOUSE_BUTTON_5         4
+#define CRML_MOUSE_BUTTON_6         5
+#define CRML_MOUSE_BUTTON_7         6
+#define CRML_MOUSE_BUTTON_8         7
+#define CRML_MOUSE_BUTTON_LAST      CRML_MOUSE_BUTTON_8
+#define CRML_MOUSE_BUTTON_LEFT      CRML_MOUSE_BUTTON_1
+#define CRML_MOUSE_BUTTON_RIGHT     CRML_MOUSE_BUTTON_2
+#define CRML_MOUSE_BUTTON_MIDDLE    CRML_MOUSE_BUTTON_3
