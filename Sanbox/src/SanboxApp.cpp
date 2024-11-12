@@ -5,7 +5,8 @@ class ExampleLayer : public Caramel::Layer
 public:
 	ExampleLayer()
 		:Layer("Example")
-	{}
+	{
+	}
 
 	void OnUpdate() override
 	{

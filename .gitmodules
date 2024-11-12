@@ -7,3 +7,6 @@
 [submodule "Caramel/vendor/imgui"]
 	path = Caramel/vendor/imgui
 	url = https://github.com/TheCherno/imgui
+[submodule "Caramel/vendor/glm"]
+	path = Caramel/vendor/glm
+	url = https://github.com/g-truc/glm

@@ -14,6 +14,7 @@ IncludeDir = {}
 IncludeDir["GLFW"] = "Caramel/vendor/GLFW/include" --includes the Premake5file in this folder
 IncludeDir["GLAD"] = "Caramel/vendor/GLAD/include" 
 IncludeDir["ImGui"] = "Caramel/vendor/imgui" 
+IncludeDir["glm"] = "Caramel/vendor/glm" 
 
 include "Caramel/vendor/GLFW"
 include "Caramel/vendor/GLAD"
@@ -33,7 +34,9 @@ project "Caramel"
     files
     {
         "%{prj.name}/src/**.h",
-        "%{prj.name}/src/**.cpp"
+        "%{prj.name}/src/**.cpp",
+        "%{prj.name}/vendor/glm/glm/**.hpp",
+        "%{prj.name}/vendor/glm/glm/**.inl"
     }
 
     includedirs
@@ -42,7 +45,8 @@ project "Caramel"
         "%{prj.name}/vendor/spdlog/include",
         "%{IncludeDir.GLFW}",
         "%{IncludeDir.GLAD}",
-        "%{IncludeDir.ImGui}"
+        "%{IncludeDir.ImGui}",
+        "%{IncludeDir.glm}"
     }
 
     links
@@ -106,7 +110,8 @@ project "Sanbox"
         includedirs
         {
             "Caramel/vendor/spdlog/include",
-            "Caramel/src"
+            "Caramel/src",
+                    "%{IncludeDir.glm}"
         }
 
         links

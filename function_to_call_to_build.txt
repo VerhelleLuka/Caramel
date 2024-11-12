@@ -1,0 +1,1 @@
+call vendor\bin\premake\pemake5.exe vs2022
